@@ -3,6 +3,6 @@ const mensaje = "hola mundo de warren.";
 
 const = {
     name: "iroman",
-    age: 45
+    age: 
 }
 console.log(mensaje);
