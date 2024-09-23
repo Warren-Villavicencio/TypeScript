@@ -4,4 +4,4 @@ const hero = {
     edad: 45
 };
 hero.edad = 50;
-console.log;
+console.log();
