@@ -1,2 +1,2 @@
 "use strict";
-const { name: , "iromsn": , edad };
+const { name: , "iromsn": , edad:  };
