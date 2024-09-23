@@ -3,5 +3,5 @@ const hero = {
     edad: 45
 }
  hero.edad = 50
- console
+ console.log
  console.log(hero.edad +1)
