@@ -1,4 +1,4 @@
 "use strict";
 const mensaje = "hola mundo de warren.";
-const { name: , "iroman": , age:  };
+const { name: , "iroman": , age: , 45:  };
 console.log(mensaje);
