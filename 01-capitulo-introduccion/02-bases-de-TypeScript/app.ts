@@ -1,5 +1,5 @@
 
 const mensaje = "hola mundo de warren.";
 
-const
+const = {}
 console.log(mensaje);
