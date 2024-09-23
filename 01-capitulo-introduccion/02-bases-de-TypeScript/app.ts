@@ -2,6 +2,6 @@
 const mensaje = "hola mundo de warren.";
 
 const = {
-    nem
+    n
 }
 console.log(mensaje);
