@@ -1,4 +1,4 @@
 "use strict";
 const mensaje = "hola mundo de warren.";
-const console, log;
-(mensaje);
+const {};
+console.log(mensaje);
