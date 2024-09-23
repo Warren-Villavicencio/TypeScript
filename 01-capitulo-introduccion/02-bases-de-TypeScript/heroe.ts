@@ -3,4 +3,3 @@ const = {
     edad: 45
 }
 
-HTMLTableRowElement.
