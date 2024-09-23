@@ -1,4 +1,4 @@
 const = {
     name: "iromsn",
-    edad: 
+    edad: 45
 }
