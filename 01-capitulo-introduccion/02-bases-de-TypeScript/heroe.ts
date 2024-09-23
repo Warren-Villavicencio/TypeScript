@@ -1,4 +1,4 @@
-const hero= {
+const hero = {
     name: "iromsn",
     edad: 45
 }

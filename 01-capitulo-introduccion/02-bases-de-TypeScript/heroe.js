@@ -1,2 +1,5 @@
 "use strict";
-const { name: , "iromsn": , edad: , 45:  };
+const hero = {
+    name: "iromsn",
+    edad: 45
+};
