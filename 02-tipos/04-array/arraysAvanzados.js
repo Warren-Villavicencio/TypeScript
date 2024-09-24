@@ -10,7 +10,7 @@
      * - filter: Crea un nuevo array con los elementos que cumplen una condición dada.
      * - reduce: Reduce un array a un único valor aplicando una función acumuladora.
      */
-    console.log("Ejemplo 0: forEach");
+    console.log("ejemplo 0: forEach");
     const frutas = ["apple", "strberry"];
     frutas.forEach((frutas) => {
         console.log(frutas);
@@ -21,11 +21,6 @@
     numeros.forEach((numero) => {
         console.log(numero); // Imprime cada número en la consola
     });
-
-    
-
-
-
     // Ejemplo 2: some - Verificar si al menos un número es par
     console.log("Ejemplo 2: some");
     const hayPar = numeros.some((numero) => numero % 2 === 0);
