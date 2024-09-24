@@ -17,6 +17,16 @@ console.log("Ejemplo combinado: forEach");
         console.log(alumnos);  
     })
 
+
+
+
+
+
+
+
+
+    
+
  console.log ("ejemplo 0: forEach");
 const frutas = ["apple","strberry"];
 frutas.forEach((frutas) => {
