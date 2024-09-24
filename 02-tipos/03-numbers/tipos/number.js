@@ -1,4 +1,4 @@
 "use strict";
 (() => {
-    let avenger;
+    let avenger = 10;
 })();
