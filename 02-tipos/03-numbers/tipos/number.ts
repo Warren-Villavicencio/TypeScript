@@ -1,7 +1,7 @@
 (()=>{
 
     let avenger:number = 10;
-    const villanos
+    const villanos:number =
 
 
 })()
