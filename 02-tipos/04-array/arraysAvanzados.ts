@@ -17,6 +17,21 @@ console.log("Ejemplo combinado: forEach");
         console.log(alumnos);  
     })
 
+    interface Alumno {
+        id: number | string;
+        // Otros atributos del alumno, si los hubiera
+      }
+      
+      const listaAlumnos: Alumno[] = [
+        { id: 1 },
+        { id: "warren" },
+        { id: 2 },
+        { id: "antonio" },
+      ];
+      
+      listaAlumnos.forEach((alumno) => {
+        console.log(alumno.id);
+      });
 
 
 
@@ -25,7 +40,6 @@ console.log("Ejemplo combinado: forEach");
 
 
 
-    
 
  console.log ("ejemplo 0: forEach");
 const frutas = ["apple","strberry"];
