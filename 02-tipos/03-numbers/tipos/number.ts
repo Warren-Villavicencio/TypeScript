@@ -7,7 +7,7 @@
         console.log("perdimos")
     
     } else{
-        console.log("nos salvamos")
+        console.log("nos salvamos");
     }
 
 
