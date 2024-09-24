@@ -2,5 +2,5 @@
 (() => {
     let batman = true;
     let fartman = false;
-    console.log(fa);
+    console.log(fartman);
 })();
