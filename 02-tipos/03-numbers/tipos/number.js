@@ -6,5 +6,6 @@
         console.log("perdimos");
     }
     else {
+        cons;
     }
 })();
