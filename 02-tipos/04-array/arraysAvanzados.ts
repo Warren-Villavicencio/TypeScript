@@ -11,7 +11,10 @@
  * - reduce: Reduce un array a un único valor aplicando una función acumuladora.
  */
 
-
+console.log("Ejemplo combinado: forEach");
+    const lista_alumnos: (Number|String) = [1, "warren",2,"antonio"];
+    frutas.forEach((lista) => {
+        console.log(lista);
 
  console.log ("ejemplo 0: forEach");
 const frutas = ["apple","strberry"];
