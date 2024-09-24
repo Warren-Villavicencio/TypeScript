@@ -1,5 +1,5 @@
 "use strict";
 (() => {
     let batman = true;
-    let fartman;
+    let fartman = false;
 })();
