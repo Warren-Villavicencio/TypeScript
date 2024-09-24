@@ -1,5 +1,5 @@
 (()=> {
 
-    const 
+    const number 
 
 })()
