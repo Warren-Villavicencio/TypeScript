@@ -16,7 +16,7 @@ console.log("Ejemplo combinado: forEach");
     lista_alumnos.forEach((alumnos) => {
         console.log(alumnos);  
     })
-
+//
     interface Alumno {
         id: number | string;
         // Otros atributos del alumno, si los hubiera
