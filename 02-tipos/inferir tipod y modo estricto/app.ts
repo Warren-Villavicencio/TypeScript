@@ -1,4 +1,4 @@
 const a = 10;
-console
+console.log
 
 
