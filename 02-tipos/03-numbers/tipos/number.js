@@ -1,8 +1,6 @@
 "use strict";
 (() => {
-    let;
-    super.;
-    number = 10;
+    let superheroes = 10;
     const villanos = 20;
     if (avenger < villanos) {
         console.log("perdimos");
