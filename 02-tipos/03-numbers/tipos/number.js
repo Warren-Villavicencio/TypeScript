@@ -6,7 +6,6 @@
         console.log("perdimos");
     }
     else {
-        console.
-        ;
+        console.log;
     }
 })();
