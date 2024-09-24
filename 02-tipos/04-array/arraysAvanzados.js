@@ -11,7 +11,7 @@
      * - reduce: Reduce un array a un único valor aplicando una función acumuladora.
      */
 console.log ("ejemplo 0: forEach"
-    
+    cosnt
 )
 
 
