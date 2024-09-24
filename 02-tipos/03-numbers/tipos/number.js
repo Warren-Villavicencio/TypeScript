@@ -1,11 +1,11 @@
 "use strict";
-let superheroes = 10;
-let villains = 20;
-function compareHeroesAndVillains(heroes, villains) {
-    if (heroes < villains) {
-        return "Perdimos la batalla.";
+(() => {
+    let superheroes = 10;
+    const villanos = 20;
+    if (superheroes < villanos) {
+        console.log("perdimos");
     }
     else {
-        return "Ganamos la batalla!";
+        console.log("nos salvamos");
     }
-}
+})();

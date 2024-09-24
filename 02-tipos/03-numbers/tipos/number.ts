@@ -1,10 +1,14 @@
-let superheroes: number = 10;
-let villains: number = 20;
+(()=>{
 
-function compareHeroesAndVillains(heroes: number, villains: number): string {
-  if (heroes < villains) {
-    return "Perdimos la batalla.";
-  } else {
-    return "Ganamos la batalla!";
-  }
-}
+    let superheroes:number = 10;
+    const villanos:number =20;
+
+    if (superheroes < villanos){
+        console.log("perdimos")
+    
+    } else{
+        console.log("nos salvamos");
+    }
+
+
+})()
