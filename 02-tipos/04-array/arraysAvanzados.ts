@@ -13,7 +13,7 @@
 
 console.log("Ejemplo combinado: forEach");
     const lista_alumnos: (Number|String) [] = [1, "warren",2,"antonio"];
-    lista_alumnos.forEach((lista) => {
+    lista_alumnos.forEach((alumnos) => {
         console.log(lista);  
     })
 
