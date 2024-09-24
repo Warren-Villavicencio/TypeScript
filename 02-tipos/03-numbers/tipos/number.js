@@ -5,7 +5,6 @@
     if (avenger < villanos) {
         console.log("perdimos");
     }
-    else
-        ;
-    { }
+    else {
+    }
 })();
