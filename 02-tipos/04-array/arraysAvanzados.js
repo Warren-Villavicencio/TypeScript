@@ -23,7 +23,7 @@
     });
 
     console.log("Ejemplo 0: forEach");
-    const lista_alumnos: (Number|String) = [1, "warre"];
+    const lista_alumnos: (Number|String) = [1, "warren"];
     frutas.forEach((lista) => {
         console.log(lista);
 
