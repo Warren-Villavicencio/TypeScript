@@ -12,9 +12,9 @@
      */
     console.log("ejemplo 0: forEach");
     const frutas = ["apple", "strberry"];
-    frutas;
-    // Ejemplo 1: forEach - Iterar sobre un array y mostrar cada elemento
-    console.log("Ejemplo 1: forEach");
+    frutas.
+        // Ejemplo 1: forEach - Iterar sobre un array y mostrar cada elemento
+        console.log("Ejemplo 1: forEach");
     const numeros = [1, 2, 3, 4, 5];
     numeros.forEach((numero) => {
         console.log(numero); // Imprime cada número en la consola
