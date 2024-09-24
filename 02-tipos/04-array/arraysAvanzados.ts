@@ -11,6 +11,8 @@
  * - reduce: Reduce un array a un único valor aplicando una función acumuladora.
  */
 
+
+
 // Ejemplo 1: forEach - Iterar sobre un array y mostrar cada elemento
 console.log("Ejemplo 1: forEach");
 const numeros = [1, 2, 3, 4, 5];
