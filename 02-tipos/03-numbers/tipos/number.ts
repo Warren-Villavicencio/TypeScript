@@ -3,7 +3,7 @@
     let superheroes:number = 10;
     const villanos:number =20;
 
-    if (avenger < villanos){
+    if (superheroes < villanos){
         console.log("perdimos")
     
     } else{
