@@ -4,7 +4,7 @@
     const villanos:number =20;
 
     if (avenger < villanos){
-        console.log
+        console.log()
     } 
 
 
