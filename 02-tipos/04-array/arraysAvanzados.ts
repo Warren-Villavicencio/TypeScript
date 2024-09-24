@@ -13,7 +13,7 @@
 
     console.log ("ejemplo 0: forEach");
     const frutas = ["apple","strberry"];
-        frutas.forEach((frutas)) => {
+frutas.forEach((frutas)) => {
         console.log(frutas);
     }
 
