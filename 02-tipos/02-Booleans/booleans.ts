@@ -1,6 +1,6 @@
 (()=> {
 
-let  batman = 
+let  batman: = 
 
 
 })()
