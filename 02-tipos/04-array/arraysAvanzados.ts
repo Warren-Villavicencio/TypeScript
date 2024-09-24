@@ -60,6 +60,11 @@ console.log("Ejemplo 2: some");
 const hayPar = numeros.some((numero) => numero % 2 === 0);
 console.log("¿Hay algún número par?", hayPar);
 
+
+
+
+
+
 // Ejemplo 3: every - Verificar si todos los números son pares
 console.log("Ejemplo 3: every");
 const todosPares = numeros.every((numero) => numero % 2 === 0);
