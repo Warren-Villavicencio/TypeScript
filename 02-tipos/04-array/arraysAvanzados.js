@@ -24,6 +24,7 @@
 
 
 
+
     
     // Ejemplo 2: some - Verificar si al menos un número es par
     console.log("Ejemplo 2: some");
