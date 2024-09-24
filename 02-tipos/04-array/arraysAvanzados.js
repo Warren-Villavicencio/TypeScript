@@ -14,6 +14,7 @@
     const lista_alumnos = [1, "warren", 2, "antonio"];
     lista_alumnos.forEach((lista_alumnos) => {
         console.log(lista_alumnos);
+        { }
         console.log("ejemplo 0: forEach");
         const frutas = ["apple", "strberry"];
         frutas.forEach((frutas) => {
