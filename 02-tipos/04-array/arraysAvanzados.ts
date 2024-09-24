@@ -12,7 +12,7 @@
  */
 
     console.log ("ejemplo 0: forEach");
-    const frutas = ["apple","strberry"];
+const frutas = ["apple","strberry"];
 frutas.forEach((frutas)) => {
         console.log(frutas);
     }
