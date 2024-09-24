@@ -22,7 +22,7 @@
         console.log(numero); // Imprime cada número en la consola
     });
 
-    console.log("Ejemplo 0: forEach");
+    console.log("Ejemplo combinado: forEach");
     const lista_alumnos: (Number|String) = [1, "warren",2,"antonio"];
     frutas.forEach((lista) => {
         console.log(lista);
