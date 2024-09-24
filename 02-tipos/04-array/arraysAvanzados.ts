@@ -13,7 +13,7 @@
 
     console.log ("ejemplo 0: forEach");
     const frutas = ["apple","strberry"];
-    frutas.forEach((String))
+    frutas.forEach((String)) 
 
 
 // Ejemplo 1: forEach - Iterar sobre un array y mostrar cada elemento
