@@ -2,4 +2,5 @@
 (() => {
     let avenger = 10;
     const villanos = 20;
+    i;
 })();
