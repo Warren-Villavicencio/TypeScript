@@ -12,7 +12,7 @@
      */
     console.log("Ejemplo combinado: forEach");
     const lista_alumnos = [1, "warren", 2, "antonio"];
-    lista_alumnos.forEach((lista) => {
+    lista_alumnos.forEach((lista_alumnos) => {
         console.log(lista);
         console.log("ejemplo 0: forEach");
         const frutas = ["apple", "strberry"];
