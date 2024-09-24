@@ -23,7 +23,7 @@
     });
 
     console.log("Ejemplo 0: forEach");
-    const lista (Number) = ["apple", "strberry"];
+    const lista (Number|) = ["apple", "strberry"];
     frutas.forEach((lista) => {
         console.log(lista);
 
