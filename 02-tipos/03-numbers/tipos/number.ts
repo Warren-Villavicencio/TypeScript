@@ -1,7 +1,7 @@
 (()=>{
 
     let avenger:number = 10;
-    con
+    console.lo
 
 
 })()
