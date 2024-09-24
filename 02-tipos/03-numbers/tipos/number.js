@@ -1,5 +1,5 @@
 "use strict";
 (() => {
     let avenger = 10;
-    const villanos = ;
+    const villanos = 20;
 })();
