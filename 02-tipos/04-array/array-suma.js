@@ -1,4 +1,4 @@
 "use strict";
 (() => {
-    const numeros = [1];
+    const numeros = [1, 2, 3, 4];
 })();
