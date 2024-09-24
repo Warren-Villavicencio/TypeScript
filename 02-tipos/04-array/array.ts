@@ -4,6 +4,6 @@
 
     console.log(numeros)
    const identificacion: (number|string) [] = ["warren",9]
-   console.log(i)
+   console.log(identificacion)
 
 })()
