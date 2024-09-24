@@ -11,6 +11,8 @@
  * - reduce: Reduce un array a un único valor aplicando una función acumuladora.
  */
 
+onsole.log ("ejemplo 0: forEach");
+    const frutas: (String) = ["apple","strberry"];
 
 
 // Ejemplo 1: forEach - Iterar sobre un array y mostrar cada elemento
