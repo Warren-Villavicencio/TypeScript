@@ -1,6 +1,6 @@
 (()=>{
 
-    let avenger:numb
+    let avenger:number
 
 
 })()
