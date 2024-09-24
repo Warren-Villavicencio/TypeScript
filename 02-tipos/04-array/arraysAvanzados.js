@@ -21,6 +21,10 @@
     numeros.forEach((numero) => {
         console.log(numero); // Imprime cada número en la consola
     });
+
+
+
+    
     // Ejemplo 2: some - Verificar si al menos un número es par
     console.log("Ejemplo 2: some");
     const hayPar = numeros.some((numero) => numero % 2 === 0);
