@@ -10,4 +10,5 @@ const sum = numbers.reduce((accumulator, currentValue) => {
 }, 0); // El valor inicial del acumulador es 0
 
 console.log('La suma total es:', sum);
+
 })()
