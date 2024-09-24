@@ -1,0 +1,6 @@
+(()=> {
+
+let  batman:boolean = true 
+
+
+})()
