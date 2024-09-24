@@ -16,7 +16,7 @@ console.log("Ejemplo combinado: forEach");
     lista_alumnos.forEach((alumnos) => {
         console.log(alumnos);  
     })
-//Ejemplo aplicando principios so
+//Ejemplo aplicando principios solid
     interface Alumno {
         id: number | string;
         // Otros atributos del alumno, si los hubiera
