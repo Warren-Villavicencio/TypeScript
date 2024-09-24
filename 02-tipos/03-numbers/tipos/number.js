@@ -6,6 +6,6 @@
         console.log("perdimos");
     }
     else {
-        console.log("");
+        console.log("nos salvamos");
     }
 })();
