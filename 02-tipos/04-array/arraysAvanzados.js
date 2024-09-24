@@ -12,7 +12,7 @@
      */
 console.log ("ejemplo 0: forEach");
     const frutas: (String) = ["apple","strberry"];
-)
+
 
 
 
