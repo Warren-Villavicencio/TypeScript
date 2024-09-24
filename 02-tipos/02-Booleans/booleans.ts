@@ -1,6 +1,0 @@
-(()=> {
-
-let  batman:boolean = true 
-
-
-})()
