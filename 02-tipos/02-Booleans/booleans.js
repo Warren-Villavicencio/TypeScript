@@ -2,6 +2,6 @@
 (() => {
     let batman = true;
     let fartman = false;
-    fartman = true &&
-        console.log(fartman);
+    fartman = true && false;
+    console.log(fartman);
 })();
