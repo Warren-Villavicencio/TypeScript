@@ -3,7 +3,7 @@
 let  batman:boolean = true;
 let fartman:boolean = false;
 
-fartman = 
+fartman = true
 
 console.log(fartman)
 
