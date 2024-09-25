@@ -6,6 +6,6 @@ interface saludo {
 
 (()=>{
   
-    console
+    console.log
 
 })();
