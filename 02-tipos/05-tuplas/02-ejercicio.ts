@@ -6,16 +6,19 @@ interface Estudiante {
 
 (()=>{
     // Solicitar al usuario el número de estudiantes
-    const numEstudiantes: number = parseInt(prompt("Ingrese la cantidad de estudiantes:"));
+    const numEstudiantesStr = prompt("Ingrese la cantidad de estudiantes:");
+    const numEstudiantes: number = parseInt(numEstudiantesStr || "0"); // Asigna 0 si el usuario cancela
 
     // Crear un array vacío para almacenar los datos
     const lista_estudiantes: Estudiante[] = [];
 
     // Iterar para solicitar los datos de cada estudiante
     for (let i = 0; i < numEstudiantes; i++) {
-        const matricula: number = parseInt(prompt("Ingrese la matrícula del estudiante " + (i+1) + ":"));
-        const nombre: string = prompt("Ingrese el nombre del estudiante " + (i+1) + ":");
-        const apellido: string = prompt("Ingrese el apellido del estudiante " + (i+1) + ":");
+        const matriculaStr = prompt("Ingrese la matrícula del estudiante " + (i+1) + ":");
+        const matricula: number = parseInt(matriculaStr || "0");
+
+        const nombre = prompt("Ingrese el nombre del estudiante " + (i+1) + ":");
+        const apellido = prompt("Ingrese el apellido del estudiante " + (i+1) + ":");
 
         // Agregar los datos al array
         lista_estudiantes.push({ matricula, nombre, apellido });
