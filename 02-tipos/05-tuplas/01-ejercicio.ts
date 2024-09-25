@@ -1,4 +1,4 @@
 (()=>{
   
-    const lista_estudiantes = [warr]
+    const lista_estudiantes = [war]
 })();
