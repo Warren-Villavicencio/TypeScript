@@ -1,4 +1,4 @@
 "use strict";
 (() => {
-    const lista;
+    const lista_estudiantes;
 })();
