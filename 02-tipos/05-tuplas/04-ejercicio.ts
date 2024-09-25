@@ -4,10 +4,7 @@ interface Saludo {
   }
   
   (()=>{
-    interface Saludo {
-        nombre: string;
-        mensaje: string;
-      }
+  
       
       // Función para crear un elemento HTML
       function crearElemento(tag: string, contenido: string): HTMLElement {
