@@ -9,6 +9,6 @@ interface saludo {
     
     const nombre  = prompt("Ingrese la cantidad de estudiantes:");
 
-    console.log("BIENVENIDO",nombre)
+    console.log("BIENVENIDO",nombre);
     
 })();
