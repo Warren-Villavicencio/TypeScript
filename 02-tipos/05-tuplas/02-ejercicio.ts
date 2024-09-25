@@ -17,7 +17,7 @@ interface Estudiante {
         const matriculaStr = prompt("Ingrese la matrícula del estudiante " + (i+1) + ":");
         const matricula: number = parseInt(matriculaStr || "0");
 
-        const nombre = prompt("Ingrese el nombre del estudiante " + (i+1) + ":");
+        const nombre = prompt("Ingrese el nombre del estudiante " + (i+1) + ":") || "No ingresado";
         const apellido = prompt("Ingrese el apellido del estudiante " + (i+1) + ":");
 
         // Agregar los datos al array
