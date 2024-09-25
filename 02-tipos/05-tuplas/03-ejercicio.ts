@@ -7,7 +7,7 @@ interface saludo {
 (()=>{
   
     
-    const nombre  = prompt("Ingrese la cantidad de estudiantes:");
+    const nombre  = prompt("Bienvenido cuál es tu nombre:");
 
     console.log("BIENVENIDO",nombre);
     
