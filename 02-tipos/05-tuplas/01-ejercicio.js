@@ -1,4 +1,4 @@
 "use strict";
 (() => {
-    const lista_estudiantes, [string,] = [1234, "warren"];
+    const lista_estudiantes, [string, num] = [1234, "warren"];
 })();
