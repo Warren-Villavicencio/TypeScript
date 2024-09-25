@@ -9,6 +9,6 @@ interface saludo {
     
     const nombre  = prompt("Bienvenido cuál es tu nombre:");
 
-    console.log("nombre);
+    console.log(""nombre);
     
 })();
