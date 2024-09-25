@@ -8,5 +8,6 @@ interface saludo {
   
     console.log("BIENVENIDO")
     const nombre: string = 
+    
 
 })();
