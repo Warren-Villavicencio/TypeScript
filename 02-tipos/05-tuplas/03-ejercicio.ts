@@ -1,7 +1,7 @@
 interface saludo {
     
     nombre: string;
-    Bienvenido cuál es tu nombre
+    Bienvenido cuál es tu
 }
 
 (()=>{
