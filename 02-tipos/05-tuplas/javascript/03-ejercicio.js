@@ -1,5 +1,6 @@
 "use strict";
 (() => {
     console.log("BIENVENIDO");
-    const nombre = ;
+    const nombre = 
+        = prompt("Ingrese la cantidad de estudiantes:");
 })();
