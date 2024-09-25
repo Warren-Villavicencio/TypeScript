@@ -1,5 +1,5 @@
 (()=>{
   
-    const lista_estudiantes [] = [1234,"warren"]
+    const lista_estudiantes [string] = [1234,"warren"]
 
 })();
