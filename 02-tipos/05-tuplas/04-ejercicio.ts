@@ -15,7 +15,7 @@ interface Saludo {
       
       // Obtener el nombre del usuario
       const nombre = prompt("Bienvenido, ¿cuál es tu nombre?");
-      const saludo: Saludo = { nombre, mensaje: "¡Estás listo!" }; || "No ingresado";
+      const saludo: Saludo = { nombre, mensaje: "¡Estás listo!" }; || ;
       
       // Crear un elemento de saludo
       const saludoElemento = crearElemento("h1", `Hola, ${saludo.nombre}! ${saludo.mensaje}`);
