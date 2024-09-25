@@ -5,7 +5,7 @@ interface Saludo {
   
   (()=>{
   
-      
+    
       // Función para crear un elemento HTML
       function crearElemento(tag: string, contenido: string): HTMLElement {
         const elemento = document.createElement(tag);
