@@ -3,4 +3,6 @@ interface Saludo {
     mensaje: string;
   }
   
-  ii
+  (()=>{
+    
+  })();
