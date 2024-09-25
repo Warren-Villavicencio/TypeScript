@@ -6,6 +6,6 @@ interface saludo {
 
 (()=>{
   
-    console.log("BIENV")
+    console.log("BIEN")
 
 })();
