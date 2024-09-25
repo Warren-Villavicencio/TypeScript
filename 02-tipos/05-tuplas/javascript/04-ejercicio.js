@@ -8,7 +8,7 @@
     }
     // Obtener el nombre del usuario
     const nombre = prompt("Bienvenido, ¿cuál es tu nombre?");
-    const saludo = { nombre, mensaje: "¡Estás listo!" } || "No ingresado";
+    const saludo = { nombre, mensaje: "¡Estás listo!" };
     // Crear un elemento de saludo
     const saludoElemento = crearElemento("h1", `Hola, ${saludo.nombre}! ${saludo.mensaje}`);
     // Agregar el elemento al cuerpo del documento
