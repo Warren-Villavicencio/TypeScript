@@ -1,3 +1,5 @@
+
+
 // Función que modifica una variable global
 let contador: number = 0;
 
