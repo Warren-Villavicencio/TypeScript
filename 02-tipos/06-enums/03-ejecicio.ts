@@ -1,9 +1,7 @@
 (()=>{
   enum audiolel {
 bajo
-EntityDataModule.forRoot(
-    
-),
+EntityDataModule.forRoot(entityConfig),
 
   }
 })();
