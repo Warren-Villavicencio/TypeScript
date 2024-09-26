@@ -7,4 +7,5 @@
         nivel_audio[nivel_audio["alto"] = 2] = "alto";
     })(nivel_audio || (nivel_audio = {}));
     const volumen_actual = nivel_audio.bajo;
+    con;
 })();
