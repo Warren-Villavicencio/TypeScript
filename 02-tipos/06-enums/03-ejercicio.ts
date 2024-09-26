@@ -1,7 +1,7 @@
 (()=>{
   enum nivel_audio {
 bajo = 10,
-medio, 
+medio= , 
 alto
 
   }
