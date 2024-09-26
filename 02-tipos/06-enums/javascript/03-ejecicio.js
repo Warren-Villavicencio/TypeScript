@@ -6,5 +6,5 @@
         audiolel[audiolel["medio"] = 1] = "medio";
         audiolel[audiolel["alto"] = 2] = "alto";
     })(audiolel || (audiolel = {}));
-    const volumen_actual = a8;
+    const volumen_actual = ;
 })();
