@@ -1,10 +1,10 @@
 "use strict";
 (() => {
-    let nivel;
-    (function (nivel) {
-        nivel[nivel["bajo"] = 0] = "bajo";
-        nivel[nivel["medio"] = 1] = "medio";
-        nivel[nivel["alto"] = 2] = "alto";
-    })(nivel || (nivel = {}));
+    let nivel_;
+    (function (nivel_) {
+        nivel_[nivel_["bajo"] = 0] = "bajo";
+        nivel_[nivel_["medio"] = 1] = "medio";
+        nivel_[nivel_["alto"] = 2] = "alto";
+    })(nivel_ || (nivel_ = {}));
     const volumen_actual = ;
 })();

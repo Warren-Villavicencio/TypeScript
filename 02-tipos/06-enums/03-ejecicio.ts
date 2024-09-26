@@ -1,5 +1,5 @@
 (()=>{
-  enum nivel {
+  enum nivel_ {
 bajo,
 medio, 
 alto
