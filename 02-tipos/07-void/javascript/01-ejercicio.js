@@ -1,6 +1,6 @@
 "use strict";
 (() => {
-    const nom;
+    const nombre;
     function saludar(nombre) {
         console.log("Hola, " + nombre + "!");
     }
