@@ -1,5 +1,6 @@
 "use strict";
-ii;
+(() => {
+})();
 // Función que modifica una variable global
 let contador = 0;
 function incrementarContador() {
