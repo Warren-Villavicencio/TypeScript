@@ -1,10 +1,10 @@
 "use strict";
 (() => {
-    let audiolel;
-    (function (audiolel) {
-        audiolel[audiolel["bajo"] = 0] = "bajo";
-        audiolel[audiolel["medio"] = 1] = "medio";
-        audiolel[audiolel["alto"] = 2] = "alto";
-    })(audiolel || (audiolel = {}));
+    let nivel;
+    (function (nivel) {
+        nivel[nivel["bajo"] = 0] = "bajo";
+        nivel[nivel["medio"] = 1] = "medio";
+        nivel[nivel["alto"] = 2] = "alto";
+    })(nivel || (nivel = {}));
     const volumen_actual = ;
 })();
