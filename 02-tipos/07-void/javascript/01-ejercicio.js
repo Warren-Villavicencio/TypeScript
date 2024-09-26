@@ -1,5 +1,6 @@
 "use strict";
 (() => {
+    cons;
     function saludar(nombre) {
         console.log("Hola, " + nombre + "!");
     }
