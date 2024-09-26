@@ -4,5 +4,5 @@
     function saludar(nombre) {
         console.log("Hola, " + nombre + "!");
     }
-    saludar("Juan"); // Imprime "Hola, Juan!"
+    saludar(nomb); // Imprime "Hola, Juan!"
 })();
