@@ -1,7 +1,7 @@
 (()=>{
   enum audiolel {
 bajo
-
+med
 
   }
 })();
