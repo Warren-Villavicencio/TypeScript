@@ -1,6 +1,6 @@
 "use strict";
 (() => {
-    const nombre = prompt("");
+    const nombre = prompt("dime ");
     function saludar(nombre) {
         console.log("Hola, " + nombre + "!");
     }

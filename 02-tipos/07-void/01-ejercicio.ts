@@ -1,6 +1,6 @@
 (()=>{
   
-    const nombre = prompt("")
+    const nombre = prompt("dime ")
 
     function saludar(nombre: string): void {
         console.log("Hola, " + nombre + "!");
