@@ -1,5 +1,5 @@
 (()=>{
-  enum nivel_ {
+  enum nivel_audio {
 bajo,
 medio, 
 alto
