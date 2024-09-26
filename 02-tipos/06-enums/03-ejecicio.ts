@@ -6,6 +6,6 @@ alto
 
   }
  const volumen_actual = nivel_audio.bajo
- console.log(v)
+ console.log(volumen_actual)
 
 })();
