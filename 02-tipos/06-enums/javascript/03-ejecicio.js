@@ -6,7 +6,7 @@
         audiolel[audiolel["EntityDataModule"] = 1] = "EntityDataModule";
         audiolel[audiolel["forRoot"] = 2] = "forRoot";
     })(audiolel || (audiolel = {}));
-    (),
+    (entityConfig),
     ;
 });
 ();
