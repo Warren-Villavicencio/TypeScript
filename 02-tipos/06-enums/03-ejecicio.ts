@@ -5,6 +5,6 @@ medio,
 alto
 
   }
- const volumen_actual = nivel_audio.
+ const volumen_actual = nivel_audio.bajo
 
 })();
