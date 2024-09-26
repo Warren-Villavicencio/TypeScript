@@ -1,3 +1,6 @@
 (()=>{
-  enum audiolel 
+  enum audiolel {
+
+    
+  }
 })();
