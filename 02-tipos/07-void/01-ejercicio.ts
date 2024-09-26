@@ -2,7 +2,7 @@
   
     const nombre = prompt("dime tu nombre");
 
-    function saludar(nombre: string): void {
+    function saludar(nombre): void {
         console.log("Hola, " + nombre + "!");
     }
     
