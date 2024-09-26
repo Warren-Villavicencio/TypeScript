@@ -1,6 +1,6 @@
 (()=>{
   
-    const nombre
+    const nombre = 
 
     function saludar(nombre: string): void {
         console.log("Hola, " + nombre + "!");
