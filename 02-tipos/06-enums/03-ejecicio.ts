@@ -1,5 +1,5 @@
 (()=>{
-  enum audiolel {
+  enum nivel {
 bajo,
 medio, 
 alto
