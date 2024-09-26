@@ -2,7 +2,7 @@
   enum nivel_audio {
 bajo = 10,
 medio = 50, 
-alto
+alto 
 
   }
  const volumen_actual = nivel_audio.alto;
