@@ -5,6 +5,6 @@ medio,
 alto
 
   }
- const volumen_actual =a8
+ const volumen_actual =
 
 })();
