@@ -1,8 +1,8 @@
 (()=>{
     
 
-    function saludar(nombre: string): void {
-        
+    function saludar(nombre: string):  {
+
         console.log("Hola, " + nombre + "!");
     }
     
