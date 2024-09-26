@@ -1,6 +1,6 @@
 "use strict";
 (() => {
-    let audi;
-    (function (audi) {
-    })(audi || (audi = {}));
+    let audiolel;
+    (function (audiolel) {
+    })(audiolel || (audiolel = {}));
 })();
