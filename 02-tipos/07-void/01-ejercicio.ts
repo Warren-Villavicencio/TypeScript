@@ -6,6 +6,6 @@
         console.log("Hola, " + nombre + "!");
     }
     
-    saludar("warren); // Imprime "Hola, Juan!"
+    saludar("warren"); // Imprime "Hola, Juan!"
 
 })();
