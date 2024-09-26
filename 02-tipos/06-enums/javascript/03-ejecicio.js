@@ -3,6 +3,10 @@
     let audiolel;
     (function (audiolel) {
         audiolel[audiolel["bajo"] = 0] = "bajo";
-        audiolel[audiolel["med"] = 1] = "med";
+        audiolel[audiolel["EntityDataModule"] = 1] = "EntityDataModule";
+        audiolel[audiolel["forRoot"] = 2] = "forRoot";
     })(audiolel || (audiolel = {}));
-})();
+    (),
+    ;
+});
+();
