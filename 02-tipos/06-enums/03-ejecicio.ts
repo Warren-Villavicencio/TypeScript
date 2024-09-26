@@ -1,6 +1,6 @@
 (()=>{
   enum audiolel {
-bajo
+bajo,
 medio 
 alto
 
